@@ -1,0 +1,41 @@
+#heading{
+    font-size:1.8rem;
+    font-family:'Courier New', Courier, monospace;
+    background-color:lightgreen;
+    text-align:center;
+    padding:5px;
+    border-radius:20px;
+    border: 8px solid red;
+    box-shadow: 10px 10px 5px orange;
+}
+
+img{
+    width:250px;
+    height:250px;
+    border:5px solid pink;
+
+}
+
+.bgc1{
+     background-color:yellow;
+     border-radius:50px;
+}
+
+.bgc2{
+    background-color:red;
+    border-radius:50%;
+}
+
+.bgc3{
+    background-color:blue;
+}
+
+.bgc4{
+    background-color:crimson;
+    border-radius:10px;
+}
+
+.bgc5{
+    background-color:blueviolet;
+    border-radius:100%;
+}
